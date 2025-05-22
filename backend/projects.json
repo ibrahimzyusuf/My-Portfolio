@@ -1,0 +1,98 @@
+[
+    {
+        "projectName":"Syria-Tours-App",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1747037997/syria_tours1_imq6xx.jpg",
+        "projectInitialDesc":"A web application promoting tourism in Syria",
+        "projectDetailedDesc":"Syria Tours App (MERN Stack), A web application promoting tourism in Syria, featuring:  Display of famous tourist attractions, Searching for the tourist attractions according to their name, the city existing in, or the sort of the attraction like natural, hotels, restaurants, etc.., The ability of rating the attraction and leaving a review after register and log in, Online reservation system for a chosen attraction with full name, phone number, the date of reservation, and the number of the guests.",
+        "projectDate":"2023",
+        "liveDemo":"https://syria-tours-app-frontend.onrender.com",
+        "githubRebo":"https://github.com/ibrahimzyusuf/Syria-Tours-App.git",
+        "featured":true,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747037997/syria_tours1_imq6xx.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038007/syria_tours2_la7qg3.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038019/syria_tours3_bjckbb.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747037989/syria_tours4_ebvxrl.jpg"
+        ]
+    },
+    {
+        "projectName":"Rent Up Home Page",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1746969643/rent_up1_tzsatc.jpg",
+        "projectInitialDesc":"Front end design of the home page of a house renting app",
+        "projectDetailedDesc":"(Front end only), Full responsive, pure html and css web page as the home page of a houses renting app.",
+        "projectDate":"2024",
+        "liveDemo":" https://ibrahimzyusuf.github.io/Task3/",
+        "githubRebo":"https://github.com/ibrahimzyusuf/Task3.git",
+        "featured":false,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746969643/rent_up1_tzsatc.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746969897/rent_up2_unkfxc.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746969889/rent_up3_xbrjpd.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746969877/rent_up4_gfhk2g.jpg"
+        ]
+    },
+    {
+        "projectName":"Furniture Home Page",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1746970672/furniture1_tupimr.jpg",
+        "projectInitialDesc":"Front end design of the home page of a furniture exhibition.",
+        "projectDetailedDesc":"(Front end only), Full responsive, pure html and bootstrap web page as the home page of a furniture exhibition, showing elegant and modern design.",
+        "projectDate":"2024",
+        "liveDemo":"https://ibrahimzyusuf.github.io/Task4/",
+        "githubRebo":"https://github.com/ibrahimzyusuf/Task4.git",
+        "featured":false,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746970672/furniture1_tupimr.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746970665/furniture2_n9i504.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746970666/furniture3_dvj3ff.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746970661/furniture4_igzsvg.jpg"
+        ]
+    },
+    {
+        "projectName":"Travel App Frontend",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971220/travel_app1_kff3q6.jpg",
+        "projectInitialDesc":"A fully responsive front end design for a travel app",
+        "projectDetailedDesc":"Fully responsive frontend design for a travel app using REACT, Vite, Tailwindcss, including many pages and sections, with a modern and attractive styles, showing a skilled hand in front end design. ",
+        "projectDate":"2024",
+        "liveDemo":"https://ibrahimzyusuf.github.io/travel-app-frontend/",
+        "githubRebo":"https://github.com/ibrahimzyusuf/travel-app-frontend.git",
+        "featured":true,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971220/travel_app1_kff3q6.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971316/travel_app2_hohabo.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971312/travel_app3_joqlfq.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971333/travel_app4_vttloi.jpg"
+        ]
+    },
+    {
+        "projectName":"Shopping Cart",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038007/shopping_cart1_v12der.jpg",
+        "projectInitialDesc":"A shopping cart for a store",
+        "projectDetailedDesc":"A shopping cart with pure javaScript, where you can add products, delete, showing the final price and the count of products on the cart.",
+        "projectDate":"2024",
+        "liveDemo":"https://ibrahimzyusuf.github.io/Task6/",
+        "githubRebo":"https://github.com/ibrahimzyusuf/Task6.git",
+        "featured":false,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038007/shopping_cart1_v12der.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038004/shopping_cart2_aehqew.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747037994/shopping_cart3_jnaaij.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038003/shopping_cart4_en6awj.jpg"
+        ]
+    },
+    {
+        "projectName":"Blog-App",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971337/blog_app1_n4kwvs.jpg",
+        "projectInitialDesc":"A fully responsive and secure blogging platform",
+        "projectDetailedDesc":"Blog App (MERN Stack), A fully responsive and secure blogging platform that enables users to create, manage, and interact with blogposts. Key features include: Email verification and authentication for enhanced security, Comprehensive dashboard for managing posts, comments, and users, Category-based post organization, allowing users to filter and explore posts by specific topics, Strong password policies to ensure user data protection.",
+        "projectDate":"2024",
+        "liveDemo":"https://blog-app-front-9dlg.onrender.com/",
+        "githubRebo":"https://github.com/ibrahimzyusuf/Blog-App.git",
+        "featured":true,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971337/blog_app1_n4kwvs.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971217/blog_app2_wmxhxz.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971188/blog_app3_ozlycg.jpg",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971154/blog_app4_baf3dp.jpg"
+        ]
+    }
+]

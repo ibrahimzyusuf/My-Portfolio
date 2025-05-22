@@ -1,0 +1,7 @@
+@media (max-width: 640px) {
+    .swiper-button-next::after,
+    .swiper-button-prev::after{
+        width: 12px ;
+        height: 12px ;
+    }
+}
