@@ -8,5 +8,5 @@ export default defineConfig({
   preview: {
     host: "0.0.0.0",
     port: 4173,
-    allowedHosts: [""],}
+    allowedHosts: ["https://my-portfolio-v5u0.onrender.com"],}
 })
