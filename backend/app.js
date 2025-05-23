@@ -19,6 +19,7 @@ app.use(express.json())
 // Cors
 app.use(cors({origin:process.env.CLIENT_DOMAIN}))
 
+// Testing the backend especialy for render
 app.get("/", (req, res) => {
     res.send("Backend is working");
 });
