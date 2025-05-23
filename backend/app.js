@@ -19,6 +19,10 @@ app.use(express.json())
 // Cors
 app.use(cors({origin:process.env.CLIENT_DOMAIN}))
 
+app.get("/", (req, res) => {
+    res.send("Backend is working");
+});
+
 // Routes
 app.use('/api/projects',projectRoutes)
 app.use('/api/informations',informationRoutes)
