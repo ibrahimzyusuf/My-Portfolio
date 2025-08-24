@@ -110,5 +110,21 @@
             "https://res.cloudinary.com/dpprkhzoc/image/upload/v1753964429/Portfolio-Design3_prn2lt.jpg",
             "https://res.cloudinary.com/dpprkhzoc/image/upload/v1753964426/Portfolio-Design4_czb4wz.jpg"
         ]
+    },
+    {
+        "projectName":"Store Page + Shopping Cart",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1756038146/Store-Page1_wkquyz.webp",
+        "projectInitialDesc":"A fully responsive, elegant and user-friendly Store page with simple, and fast Shopping Cart.",
+        "projectDetailedDesc":"A fully responsive, elegant and user-friendly Store page with simple, and fast Shopping Cart, using REACT, Vite, TypeScript and Sass for styling, it displays the items in a visually appealing UI, and enables the operations of the store in a very easy and fast way, it also includes a script for converting .jpg images to .webp with some compression to reduce the sizes of the images.",
+        "projectDate":"2025",
+        "liveDemo":"https://ibrahimzyusuf.github.io/Store-Page/",
+        "githubRebo":"https://github.com/ibrahimzyusuf/Store-Page.git",
+        "featured":true,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756038146/Store-Page1_wkquyz.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756038145/Store-Page2_xllu7m.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756038145/Store-Page3_iatfgh.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756038146/Store-Page4_fwkkfg.webp"
+        ]
     }
 ]
