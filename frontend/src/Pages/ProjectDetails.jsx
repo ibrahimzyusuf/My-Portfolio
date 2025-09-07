@@ -12,7 +12,7 @@ const ProjectDetails = () => {
     return (
         <div className='project-details'>
             <div className="project-details-container border-t border-gray-500 w-11/12 mx-auto py-8 md:w-10/12 md:px-5">
-                <img src={projectPhoto} alt="project photo" className='w-full'/>
+                <img src={projectPhoto} alt="project photo" className='w-full' loading='lazy' />
                 <div className='flex items-center justify-between mt-4'>
                     <h1 className="project_name font-semibold text-3xl">{projectName}</h1>
                     <span className='text-2xl'>{projectDate}</span>

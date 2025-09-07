@@ -9,7 +9,7 @@ const ProjectCard = ({project}) => {
     return (
         <div className='project_card w-full border-y border-gray-500 sm:w-72 md:w-80'>
             <div className="card_top relative w-full">
-                <img src={projectPhoto} alt="project photo" className='w-full h-56'/>
+                <img src={projectPhoto} alt="project photo" className='w-full h-56' loading='lazy' />
                 {
                     featured && <div className='absolute bottom-0 right-0 bg-amber-300 py-1 px-2'>Featured</div>
                 }
@@ -17,7 +17,7 @@ const ProjectCard = ({project}) => {
             <div className="card_bottom py-1 px-1 flex flex-col gap-4 justify-between">
                 <div className='flex items-center justify-between h-12'>
                     <Link to={`/projects/${_id}`}>
-                    <h1 className="project_name font-semibold text-2xl hover:text-lime-800">{projectName}</h1>
+                    <h2 className="project_name font-semibold text-2xl hover:text-lime-800">{projectName}</h2>
                     </Link>
                     <span className='text-2xl'>{projectDate}</span>
                 </div>

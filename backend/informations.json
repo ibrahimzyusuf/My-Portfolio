@@ -6,7 +6,7 @@
     "location":"Syria, Homs Governorate",
     "gender":"Male",
     "maritalStatus":"Single",
-    "personalPhoto":"/ibrahim-yusuf-personal-photo.jpg",
+    "personalPhoto":"/ibrahim-yusuf-personal-photo.webp",
     "email":"ibrahimzyusuf000@gmail.com",
     "phoneNumber":"+963956582230",
     "LinkedIn":"https://www.linkedin.com/in/ibrahim-yusuf-b46450361",
@@ -33,10 +33,11 @@
         }
     ],
     "experience":"Freelance web developer, Self Employed Designed and developed responsive,  great looking, client approved web applications , improving user experience and engagement. Built web applications using React, pure CSS, Bootstrap, Tailwind CSS, Node.js, Express.js, and MongoDB, ensuring scalability and performance, and provided innovative web solutions.",
-    "cv":"Ibrahim Yusuf CV 2025-7-31.pdf",
+    "cv":"Ibrahim Yusuf CV 2025-9-6.pdf",
     "skills":["HTML","CSS","JavaScript","React","Bootstrap","Tailwind CSS",
-    "Node.js","Express.js","Mongo DB","MERN Stack","Git","GitHub","Python","Java","C++",
-    "PHP","Front End Design","Full Stack Development","SEO","Sass","Docker","Responsive Design","RESTful API","Photoshope","Microsoft Office",
+    "Node.js","Express.js","Mongo DB","MERN Stack","Git","GitHub","PHP","Front End Development",
+    "Full Stack Development","SEO","Sass","Docker","Responsive Design","RESTful API",
+    "TypeScript","Postman","Performance Optimization","Photoshope and photos editing","Microsoft Office",
     "Quick learning","Work under pressure","Team worker"],
     "languages":["Arabic (Native)","English (Fluent)"]
 }

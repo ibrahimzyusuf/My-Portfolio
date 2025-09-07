@@ -1,7 +1,7 @@
 [
     {
         "projectName":"Syria-Tours-App",
-        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1747037997/syria_tours1_imq6xx.jpg",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1757149796/syria_tours1_v5mshx.webp",
         "projectInitialDesc":"A web application promoting tourism in Syria",
         "projectDetailedDesc":"Syria Tours App (MERN Stack), A web application promoting tourism in Syria, featuring:  Display of famous tourist attractions, Searching for the tourist attractions according to their name, the city existing in, or the sort of the attraction like natural, hotels, restaurants, etc.., The ability of rating the attraction and leaving a review after register and log in, Online reservation system for a chosen attraction with full name, phone number, the date of reservation, and the number of the guests.",
         "projectDate":"2023",
@@ -9,15 +9,15 @@
         "githubRebo":"https://github.com/ibrahimzyusuf/Syria-Tours-App.git",
         "featured":true,
         "imagesGallery":[
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747037997/syria_tours1_imq6xx.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038007/syria_tours2_la7qg3.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038019/syria_tours3_bjckbb.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747037989/syria_tours4_ebvxrl.jpg"
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757149796/syria_tours1_v5mshx.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147695/syria_tours2_u4bxch.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147698/syria_tours3_f7qxkx.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147694/syria_tours4_w2rdvk.webp"
         ]
     },
     {
         "projectName":"Rent Up Home Page",
-        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1746969643/rent_up1_tzsatc.jpg",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147638/rent_up1_hlgtz3.webp",
         "projectInitialDesc":"Front end design of the home page of a house renting app",
         "projectDetailedDesc":"(Front end only), Full responsive, pure html and css web page as the home page of a houses renting app.",
         "projectDate":"2024",
@@ -25,15 +25,15 @@
         "githubRebo":"https://github.com/ibrahimzyusuf/Task3.git",
         "featured":false,
         "imagesGallery":[
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746969643/rent_up1_tzsatc.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746969897/rent_up2_unkfxc.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746969889/rent_up3_xbrjpd.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746969877/rent_up4_gfhk2g.jpg"
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147638/rent_up1_hlgtz3.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147637/rent_up2_ugjl3h.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147638/rent_up3_jp1w9z.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147634/rent_up4_aoelds.webp"
         ]
     },
     {
         "projectName":"Furniture Home Page",
-        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1746970672/furniture1_tupimr.jpg",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147529/furniture1_ycmitl.webp",
         "projectInitialDesc":"Front end design of the home page of a furniture exhibition.",
         "projectDetailedDesc":"(Front end only), Full responsive, pure html and bootstrap web page as the home page of a furniture exhibition, showing elegant and modern design.",
         "projectDate":"2024",
@@ -41,15 +41,15 @@
         "githubRebo":"https://github.com/ibrahimzyusuf/Task4.git",
         "featured":false,
         "imagesGallery":[
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746970672/furniture1_tupimr.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746970665/furniture2_n9i504.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746970666/furniture3_dvj3ff.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746970661/furniture4_igzsvg.jpg"
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147529/furniture1_ycmitl.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147522/furniture2_bmwwbg.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147525/furniture3_zajap2.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147521/furniture4_lrf3xc.webp"
         ]
     },
     {
         "projectName":"Travel App Frontend",
-        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971220/travel_app1_kff3q6.jpg",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147686/travel_app1_v3oxqc.webp",
         "projectInitialDesc":"A fully responsive front end design for a travel app",
         "projectDetailedDesc":"Fully responsive frontend design for a travel app using REACT, Vite, Tailwindcss, including many pages and sections, with a modern and attractive styles, showing a skilled hand in front end design. ",
         "projectDate":"2024",
@@ -57,15 +57,15 @@
         "githubRebo":"https://github.com/ibrahimzyusuf/travel-app-frontend.git",
         "featured":true,
         "imagesGallery":[
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971220/travel_app1_kff3q6.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971316/travel_app2_hohabo.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971312/travel_app3_joqlfq.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971333/travel_app4_vttloi.jpg"
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147686/travel_app1_v3oxqc.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147691/travel_app2_mgcyfh.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147690/travel_app3_o390pc.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147699/travel_app4_vgvktl.webp"
         ]
     },
     {
         "projectName":"Shopping Cart",
-        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038007/shopping_cart1_v12der.jpg",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147686/shopping_cart1_vkxtal.webp",
         "projectInitialDesc":"A shopping cart for a store",
         "projectDetailedDesc":"A shopping cart with pure javaScript, where you can add products, delete, showing the final price and the count of products on the cart.",
         "projectDate":"2024",
@@ -73,15 +73,15 @@
         "githubRebo":"https://github.com/ibrahimzyusuf/Task6.git",
         "featured":false,
         "imagesGallery":[
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038007/shopping_cart1_v12der.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038004/shopping_cart2_aehqew.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747037994/shopping_cart3_jnaaij.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1747038003/shopping_cart4_en6awj.jpg"
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147686/shopping_cart1_vkxtal.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147692/shopping_cart2_tvgvxd.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147689/shopping_cart3_faxuhj.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147691/shopping_cart4_wyykvt.webp"
         ]
     },
     {
         "projectName":"Blog-App",
-        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971337/blog_app1_n4kwvs.jpg",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147519/blog_app1_belvty.webp",
         "projectInitialDesc":"A fully responsive and secure blogging platform",
         "projectDetailedDesc":"Blog App (MERN Stack), A fully responsive and secure blogging platform that enables users to create, manage, and interact with blogposts. Key features include: Email verification and authentication for enhanced security, Comprehensive dashboard for managing posts, comments, and users, Category-based post organization, allowing users to filter and explore posts by specific topics, Strong password policies to ensure user data protection.",
         "projectDate":"2024",
@@ -89,15 +89,15 @@
         "githubRebo":"https://github.com/ibrahimzyusuf/Blog-App.git",
         "featured":true,
         "imagesGallery":[
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971337/blog_app1_n4kwvs.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971217/blog_app2_wmxhxz.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971188/blog_app3_ozlycg.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1746971154/blog_app4_baf3dp.jpg"
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147519/blog_app1_belvty.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147517/blog_app2_st3j2d.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147522/blog_app3_orl42f.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147519/blog_app4_qbvy46.webp"
         ]
     },
     {
         "projectName":"Portfolio-Design",
-        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1753964447/Portfolio-Design1_hlkidj.jpg",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147635/Portfolio-Design1_jvezvw.webp",
         "projectInitialDesc":"A fully responsive, very modern and visually appealing frontend design for a portfolio.",
         "projectDetailedDesc":"A fully responsive, very modern and visually appealing frontend design for a portfolio. using pure HTML, CSS with Sass preprocessor, and pure JS, it contains multible pages for displaying the jobs, projects and contact informations in advanced UI.",
         "projectDate":"2025",
@@ -105,17 +105,17 @@
         "githubRebo":"https://github.com/ibrahimzyusuf/Portfolio-Design.git",
         "featured":true,
         "imagesGallery":[
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1753964447/Portfolio-Design1_hlkidj.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1753964438/Portfolio-Design2_gmli7c.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1753964429/Portfolio-Design3_prn2lt.jpg",
-            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1753964426/Portfolio-Design4_czb4wz.jpg"
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147635/Portfolio-Design1_jvezvw.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147629/Portfolio-Design2_fykobu.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147636/Portfolio-Design3_qqz4ma.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1757147630/Portfolio-Design4_ez22b4.webp"
         ]
     },
     {
         "projectName":"Store Page + Shopping Cart",
         "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1756038146/Store-Page1_wkquyz.webp",
-        "projectInitialDesc":"A fully responsive, elegant and user-friendly Store page with simple, and fast Shopping Cart.",
-        "projectDetailedDesc":"A fully responsive, elegant and user-friendly Store page with simple, and fast Shopping Cart, using REACT, Vite, TypeScript and Sass for styling, it displays the items in a visually appealing UI, and enables the operations of the store in a very easy and fast way, it also includes a script for converting .jpg images to .webp with some compression to reduce the sizes of the images.",
+        "projectInitialDesc":"A fully responsive, elegant and user-friendly Store page with Shopping Cart.",
+        "projectDetailedDesc":"A fully responsive, elegant and user-friendly Store page with simple, and fast Shopping Cart, using REACT Vite, TypeScript and Sass for styling, it displays the items in a visually appealing UI, and enables the operations of the store in a very easy and fast way, it also includes a script for converting .jpg images to .webp with some compression to reduce the sizes of the images using 'sharp' package.",
         "projectDate":"2025",
         "liveDemo":"https://ibrahimzyusuf.github.io/Store-Page/",
         "githubRebo":"https://github.com/ibrahimzyusuf/Store-Page.git",
@@ -125,6 +125,22 @@
             "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756038145/Store-Page2_xllu7m.webp",
             "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756038145/Store-Page3_iatfgh.webp",
             "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756038146/Store-Page4_fwkkfg.webp"
+        ]
+    },
+    {
+        "projectName":"Notes-App",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1756888838/Notes-App1_xnuvxj.webp",
+        "projectInitialDesc":"A fully responsive with simple UI Notes application.",
+        "projectDetailedDesc":"A fully responsive with simple UI Notes application for creating and managing notes quickly and efficiently, Built by REACT Vite, TypeScript, and Bootstrap for styles, You can create a new note with the desired tags, where you can select from your previouse tags or add new ones, Edit the notes, the tags and delete them, and filtering the notes according to the title or the tags the note has or both of them in the Home page.",
+        "projectDate":"2025",
+        "liveDemo":"https://ibrahimzyusuf.github.io/Notes-App/",
+        "githubRebo":"https://github.com/ibrahimzyusuf/Notes-App.git",
+        "featured":true,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756888838/Notes-App1_xnuvxj.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756888839/Notes-App2_u1dlta.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756888838/Notes-App3_che6nz.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756888838/Notes-App4_mgapkk.webp"
         ]
     }
 ]

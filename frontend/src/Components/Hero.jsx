@@ -16,23 +16,23 @@ const Hero = () => {
             <div className="hero_body w-11/12 mx-auto sm:flex items-center gap-8 md:w-10/12">
                 <div className="left_hero w-full mb-6 md:w-1/2">
                     <img src={personalPhoto} alt="ibrahim yusuf personal photo" 
-                    className='w-full'/>
+                    className='w-full' fetchPriority='high' />
                 </div>
                 <div className="right_hero w-full md:w-1/2">
                     <div className='font-semibold text-2xl md:text-3xl'><h1>{heroFirstPhrase}</h1></div>
                     <div className='text-2xl md:text-3xl'><h2>{heroSecondPhrase}</h2></div>
                     <div className="social_media mt-7 px-2 flex items-center justify-between flex-wrap gap-4">
                         <div className='flex items-center gap-3'>
-                            <a href={LinkedIn} target='_blank' rel='noopener noreferrer' className='hover:text-lime-800'>
+                            <a href={LinkedIn} target='_blank' rel='noopener noreferrer' className='hover:text-lime-800' aria-label='Visit my LinkedIn profile' title='My LinkedIn profile' >
                             <FaLinkedin size={26}/>
                             </a>
-                            <a href={github} target='_blank' rel='noopener noreferrer' className='hover:text-lime-800'>
+                            <a href={github} target='_blank' rel='noopener noreferrer' className='hover:text-lime-800' aria-label='Visit my GitHub' title='My GitHub' >
                             <FaGithub size={26}/>
                             </a>
-                            <a href={`https://${email}`} target='_blank' rel='noopener noreferrer' className='hover:text-lime-800'>
+                            <a href={`https://${email}`} target='_blank' rel='noopener noreferrer' className='hover:text-lime-800' aria-label='Contact with Gmail' title='Contact with Gmail' >
                             <SiGmail size={26}/>
                             </a>
-                            <a href={Facebook} target='_blank' rel='noopener noreferrer' className='hover:text-lime-800'>
+                            <a href={Facebook} target='_blank' rel='noopener noreferrer' className='hover:text-lime-800' aria-label='My Facebook profile' title='My Facebook profile' >
                             <FaFacebookSquare size={26}/>
                             </a>
                         </div>

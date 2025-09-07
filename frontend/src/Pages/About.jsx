@@ -9,9 +9,9 @@ const About = () => {
     return (
         <>
             <section className="personal_details w-11/12 mx-auto md:w-10/12 mt-10 pb-4 border-b-3 border-b-gray-600 text-2xl">
-                <h2 className='mb-7 text-3xl text-center'>Personal Details</h2>
+                <h1 className='mb-7 text-3xl text-center'>Personal Details</h1>
                 <div className='flex flex-col gap-2'>
-                    <h1>Name: {myName}</h1>
+                    <h2>Name: {myName}</h2>
                     <h3>Date of Birth: {birthDate}</h3>
                     <h3>Age: {age}</h3>
                     <h3>Nationality: {Nationality}</h3>
@@ -21,7 +21,7 @@ const About = () => {
                 </div>
             </section>
             <section className="education w-11/12 mx-auto pb-4 md:w-10/12 mt-12 border-b-3 border-b-gray-600 text-2xl">
-                <h2 className='mb-8 text-3xl text-center'>Education</h2>
+                <h1 className='mb-8 text-3xl text-center'>Education</h1>
                 <div className='flex items-center flex-wrap gap-6 sm:gap-0'>
                     {
                         education?.map((education,index)=>
@@ -41,7 +41,7 @@ const About = () => {
                 </div>
             </section>
             <section className="experiance w-11/12 mx-auto md:w-10/12 mt-12 pb-4 border-b-3 border-b-gray-600 text-2xl">
-                <h2 className='mb-7 text-3xl text-center'>Experiance</h2>
+                <h1 className='mb-7 text-3xl text-center'>Experiance</h1>
                 <p>Freelance web developer, 
                     Self Employed
                     Designed and developed responsive,  great looking, client approved web applications , improving user
@@ -51,7 +51,7 @@ const About = () => {
                 </p>
             </section>
             <section className="experiance w-11/12 mx-auto md:w-10/12 mt-12 pb-4 border-b-3 border-b-gray-600 text-2xl">
-                <h2 className='mb-7 text-3xl text-center'>My Skills</h2>
+                <h1 className='mb-7 text-3xl text-center'>My Skills</h1>
                 <div className="flex flex-wrap gap-4">
                     {
                     skills?.map((skill,index)=>(
@@ -61,7 +61,7 @@ const About = () => {
                 </div>
             </section>
             <section className="experiance w-11/12 mx-auto md:w-10/12 mt-12 pb-4 border-b-3 border-b-gray-600 text-2xl">
-                <h2 className='mb-6 text-3xl text-center'>Languages</h2>
+                <h1 className='mb-6 text-3xl text-center'>Languages</h1>
                 {
                     languages?.map((language,index)=>
                     <div key={index} className='mb-3'>{language}</div>

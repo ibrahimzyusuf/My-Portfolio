@@ -13,7 +13,7 @@ const ProjectSchema=new mongoose.Schema(
         projectPhoto:{
             type:String,
             trim:true,
-            default:"/default_project.jpg"
+            default:"/default_project.webp"
         },
         projectInitialDesc:{
             type:String,

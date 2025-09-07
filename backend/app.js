@@ -4,6 +4,7 @@ import connectToBD from "./Config/connectToDB.js";
 import cors from "cors";
 import projectRoutes from "./Routes/projectRoutes.js";
 import informationRoutes from "./Routes/informationRoutes.js";
+import helmet from "helmet";
 
 dotenv.config()
 
@@ -14,6 +15,7 @@ const app=express()
 connectToBD()
 
 // Middlewares
+app.use(helmet());
 app.use(express.json())
 
 // Cors

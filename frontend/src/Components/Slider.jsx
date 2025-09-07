@@ -27,7 +27,7 @@ const Slider = ({imagesGallery}) => {
             imagesGallery?.map((photo,index)=>(
                 <SwiperSlide key={index}>
                     <div className="swiper-zoom-container">
-                        <img src={photo} className='w-10/12 h-80' />
+                        <img src={photo} className='w-10/12 h-80' alt='project photo' loading='lazy' />
                     </div>
                 </SwiperSlide>
             ))
@@ -36,36 +36,5 @@ const Slider = ({imagesGallery}) => {
     </div>
     )
 }
-
-/*
-{
-            imagesGallery.map((photo,index)=>(
-                <SwiperSlide key={index}>
-                    <div className="swiper-zoom-container">
-                        <img src={photo} />
-                    </div>
-                </SwiperSlide>
-            ))
-        }
-<SwiperSlide>
-            <div className="swiper-zoom-container">
-                <img src="/default_project.jpg" />
-            </div>
-        </SwiperSlide>
-        <SwiperSlide>
-            <div className="swiper-zoom-container">
-                <img src="/default_project.jpg" />
-            </div>
-        </SwiperSlide>
-        <SwiperSlide>
-            <div className="swiper-zoom-container">
-                <img src="/default_project.jpg" />
-            </div>
-        </SwiperSlide>
-        <SwiperSlide>
-            <div className="swiper-zoom-container">
-                <img src="/default_project.jpg" />
-            </div>
-        </SwiperSlide> */
 
 export default Slider
