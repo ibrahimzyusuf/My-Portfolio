@@ -42,13 +42,7 @@ const About = () => {
             </section>
             <section className="experiance w-11/12 mx-auto md:w-10/12 mt-12 pb-4 border-b-3 border-b-gray-600 text-2xl">
                 <h1 className='mb-7 text-3xl text-center'>Experiance</h1>
-                <p>Freelance web developer, 
-                    Self Employed
-                    Designed and developed responsive,  great looking, client approved web applications , improving user
-                    experience and engagement.
-                    Built web applications using React, pure CSS, Bootstrap, Tailwind CSS, Node.js, Express.js, and MongoDB,
-                    ensuring scalability and performance, and provided innovative web solutions.
-                </p>
+                <p>{experience}</p>
             </section>
             <section className="experiance w-11/12 mx-auto md:w-10/12 mt-12 pb-4 border-b-3 border-b-gray-600 text-2xl">
                 <h1 className='mb-7 text-3xl text-center'>My Skills</h1>
