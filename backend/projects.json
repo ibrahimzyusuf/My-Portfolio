@@ -135,12 +135,58 @@
         "projectDate":"2025",
         "liveDemo":"https://ibrahimzyusuf.github.io/Notes-App/",
         "githubRebo":"https://github.com/ibrahimzyusuf/Notes-App.git",
-        "featured":true,
+        "featured":false,
         "imagesGallery":[
             "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756888838/Notes-App1_xnuvxj.webp",
             "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756888839/Notes-App2_u1dlta.webp",
             "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756888838/Notes-App3_che6nz.webp",
             "https://res.cloudinary.com/dpprkhzoc/image/upload/v1756888838/Notes-App4_mgapkk.webp"
+        ]
+    },
+    {
+        "projectName":"students-management-panel",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256926/students-panel1_azvd8g.webp",
+        "projectInitialDesc":"A student management system featuring full CRUD (Create, Read, Update, Delete) functionality.",
+        "projectDetailedDesc":"A student management system featuring full CRUD (Create, Read, Update, Delete) functionality and a clean, responsive UI built with PHP, HTML, CSS, and Bootstrap.",
+        "projectDate":"2025",
+        "liveDemo":"https://students-management-panel.yzz.me",
+        "githubRebo":"https://github.com/ibrahimzyusuf/students-management-panel.git",
+        "featured":false,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256926/students-panel1_azvd8g.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256922/students-panel2_lj8ur0.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256924/students-panel3_jkupc9.webp"
+        ]
+    },
+    {
+        "projectName":"login-register-system",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256972/login-register1_kfk6ul.webp",
+        "projectInitialDesc":"A login and registration web system with modern UI design, visual effects, and secure backend implementation.",
+        "projectDetailedDesc":"A login and registration web system with modern UI design, visual effects, and secure backend implementation using PHP, HTML, CSS, and JavaScript.",
+        "projectDate":"2025",
+        "liveDemo":"https://login-register-full-stack-system.yzz.me",
+        "githubRebo":"https://github.com/ibrahimzyusuf/login-register-full-stack-system.git",
+        "featured":true,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256972/login-register1_kfk6ul.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256948/login-register2_atsjzs.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256954/login-register3_uytdwh.webp"
+        ]
+    },
+    {
+        "projectName":"crm-system",
+        "projectPhoto":"https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256928/crm1_jq7eqx.webp",
+        "projectInitialDesc":"Advanced full-stack CRM and Helpdesk system.",
+        "projectDetailedDesc":"Developed a full-stack CRM and Helpdesk system featuring multi-pipeline Kanban boards, ticket management with SLA tracking and escalation, automation rules, custom fields, subtasks, attachments and audit logs. Implemented real-time updates, advanced filtering, using React, TypeScript, Zustand, TanStack Query, Node.js, Express, MongoDB, and Tailwind CSS.",
+        "projectDate":"2025",
+        "liveDemo":"https://crm-s4x2.onrender.com",
+        "githubRebo":"",
+        "featured":true,
+        "imagesGallery":[
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256928/crm1_jq7eqx.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256929/crm2_uhth2a.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256925/crm3_dme6in.webp",
+            "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256925/crm4_eohgs9.webp"
         ]
     }
 ]
