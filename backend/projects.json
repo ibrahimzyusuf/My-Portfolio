@@ -180,7 +180,7 @@
         "projectDetailedDesc":"Developed a full-stack CRM and Helpdesk system featuring multi-pipeline Kanban boards, ticket management with SLA tracking and escalation, automation rules, custom fields, subtasks, attachments and audit logs. Implemented real-time updates, advanced filtering, using React, TypeScript, Zustand, TanStack Query, Node.js, Express, MongoDB, and Tailwind CSS.",
         "projectDate":"2025",
         "liveDemo":"https://crm-s4x2.onrender.com",
-        "githubRebo":"",
+        "githubRebo":"#",
         "featured":true,
         "imagesGallery":[
             "https://res.cloudinary.com/dpprkhzoc/image/upload/v1767256928/crm1_jq7eqx.webp",
